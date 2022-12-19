@@ -1,12 +1,12 @@
 # JobsimulatorHCI
 
-#Description
+# Description
 In this project demonstrate a manual in which the User follow a set of instruction during the training of being a Surgeon in a Job simulator.
 
 # Version
 - 2021.3.9fl
 
-#Build project
+# Build project
 - AR Core
 
 # Language used in Unity
