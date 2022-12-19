@@ -26,6 +26,7 @@ The objective of this project is to simulate a AR/VR to help us find the field t
 ![image](https://user-images.githubusercontent.com/118197349/208486924-9141fbac-72df-4e58-b1ef-4c1026f197ac.png)
 
 1.4. User Stories and Problem Statement
+
 ![image](https://user-images.githubusercontent.com/118197349/208486987-8e2e8e2a-1d17-40c3-9e58-c9759f1b1e26.png)
 
 1.5. Competitors
@@ -45,6 +46,7 @@ The objective of this project is to simulate a AR/VR to help us find the field t
 - Finding the difficulty in handling the job.
 
 1.8. How it works
+
 ![image](https://user-images.githubusercontent.com/118197349/208487206-6b8faad7-979b-481c-bb4d-4ec3d7815f4a.png)
 
 1.9. Inspirational Idea
