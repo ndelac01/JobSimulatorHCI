@@ -14,6 +14,8 @@ In this project demonstrate a manual in which the User follow a set of instructi
 - Javascript (UnityScript)
 
 # Study Case
+1.1 Background
+After seeing many bachelor graduating from 
 
 Link of Research:https://www.figma.com/proto/eQkHNvWXtDjqtsa11M4Hk4/Job-interview-Case-study?page-id=0%3A1&node-id=27%3A79&viewport=561%2C-50%2C0.18&scaling=contain&starting-point-node-id=27%3A79&show-proto-sidebar=1
 
