@@ -13,13 +13,20 @@ In this project demonstrate a manual in which the User follow a set of instructi
 - C#
 - Javascript (UnityScript)
 
-# Study Case
+# Project Description
 1.1. Background
+
 After seeing many graduates obtain their title for their career not many are able to obtain a job easily or know what to expect in their journey of work. In my case, I have recently graduated as a Computer Engineer and had not obtain a job since I graduated in my field nor did I had any experience to apply that is being requiered for. Searching and being interviewed for the job it was hard to understand the interviewers perspective or what they expect us to do. Trying to get knowledge and experience of how a job work throughout different levels of difficulties.
 
 1.2. Objective
 
 The objective of this project is to simulate a AR/VR to help us find the field that we want to work to get refined results according to their preferences and level without the fear of handling the task in hand. In this case will be specified in a training of a surgeon.
+
+1.2.1. Target Audience
+
+- People who are looking for jobs.
+- Graduates.
+- People who seek for knowledge and preparations.
 
 1.3. Personas 
 ![image](https://user-images.githubusercontent.com/118197349/208486862-43bf8c69-7d2d-4e01-b1a4-71157e8de9e0.png)
