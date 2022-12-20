@@ -37,9 +37,20 @@ The objective of this project is to simulate a AR/VR to help us find the field t
 ![image](https://user-images.githubusercontent.com/118197349/208486987-8e2e8e2a-1d17-40c3-9e58-c9759f1b1e26.png)
 
 1.5. Competitors
+
  - Proximie (Augmented reality healthcare solution)
- - Proprio 
+
+Proximie is a technology platform that allows clinicians to virtually ‘scrub in’ to any operating room or cath lab from anywhere in the world. By empowering clinicians to share their skills in real-time, we can reduce variation in care and ensure every patient receives the best healthcare every single time.
+
+- Proprio 
+
+Proprio is a technology company modernizing the way we predict, perform, and perfect surgery through the combination of physician expertise and immersive, intelligent technology.
+
  - echopixel 
+
+EchoPixel is committed to the development of technology that transforms the delivery of patient care and enable precision health. 
+Their software platform is the first turnkey solution that enables physicians to use a digital twin of a patient using standard medical images and experience it as a 4D interactive hologram.
+ 
 
 1.6. Summary
 - Users want to easily find job and have some experience on how the job will be.
